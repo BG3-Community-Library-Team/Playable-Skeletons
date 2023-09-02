@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="FixedString" value="Skeleton Head"/>
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="a05e7d2b-67f6-4726-860c-7177ce3ee0df"/>
+                    <attribute id="VisualResource" type="guid" value="01bea878-2e89-019a-5183-c7cc54d4c15f"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="FixedString" value="Skeleton Head"/>
+                    <attribute id="RaceUUID" type="guid" value="010abdd6-1ed3-41d0-8b95-a324f5dfb50c"/>
+                    <attribute id="SlotName" type="FixedString" value="Head"/>
+                    <attribute id="UUID" type="guid" value="65e59816-f861-46b6-9491-914d8a3ab5ab"/>
+                    <attribute id="VisualResource" type="guid" value="01bea878-2e89-019a-5183-c7cc54d4c15f"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

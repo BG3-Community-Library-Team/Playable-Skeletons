@@ -1,0 +1,13 @@
+new entry "HeroSkeletonMale"
+type "Character"
+using "_Hero"
+data "Weight" "30000"
+data "StepsType" "Bone"
+data "Progressions" "413b0749-12f7-494a-a4a3-bbf630d09e48"
+
+new entry "HeroSkeletonFemale"
+type "Character"
+using "_Hero"
+data "Weight" "30000"
+data "StepsType" "Bone"
+data "Progressions" "413b0749-12f7-494a-a4a3-bbf630d09e48"
