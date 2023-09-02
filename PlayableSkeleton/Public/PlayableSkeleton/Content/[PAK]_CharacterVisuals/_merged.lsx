@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" />
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+					<attribute id="ID" type="FixedString" value="d22e6d12-92c2-4662-8786-197fffd85fa3" />
+					<attribute id="Name" type="LSString" value="Undead_Skeleton_Male_Player" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="VisualResource" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="01bea878-2e89-019a-5183-c7cc54d4c15f" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" />
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+					<attribute id="ID" type="FixedString" value="bd42f421-6126-4261-b1bf-a168db5a6f83" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="Undead_Skeleton_Female_Player" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="VisualResource" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="01bea878-2e89-019a-5183-c7cc54d4c15f" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" />
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+					<attribute id="ID" type="FixedString" value="128747a8-e8f1-409a-b8a2-2b3b38e82852" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Undead_Skeleton_Sturdy_Male_Player" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="VisualResource" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="b4cdb8cc-cff5-010b-cc55-d2a4c750e001" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="305fcd77-67ac-9b1f-f31a-c2fabda298f1" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="3aae6543-6359-1f81-af0b-82db7e6e7a8c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="01bea878-2e89-019a-5183-c7cc54d4c15f" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="6ca6e292-c451-71eb-530f-7ac2a87c22da" />
+					<attribute id="BodySetVisual" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+					<attribute id="ID" type="FixedString" value="bfcac889-bc0f-4c6b-a4d5-570bb707d294" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Undead_Skeleton_Sturdy_Female_Player" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
+					<children>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Unassigned" />
+							<attribute id="VisualResource" type="FixedString" value="d8f4b6db-aed5-7d47-99bc-0947296010cf" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="ed529cde-5b5b-9216-94b8-6735db5c1e74" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="3aae6543-6359-1f81-af0b-82db7e6e7a8c" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="c3dfe585-6941-3a22-8d69-7d0070974b04" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="01bea878-2e89-019a-5183-c7cc54d4c15f" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

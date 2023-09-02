@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d22e6d12-92c2-4662-8786-197fffd85fa3" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Skeleton" />
+					<attribute id="Icon" type="FixedString" value="5f12110f-629a-5a81-7db7-de130bf35b93-_(Icon_Skeleton)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ce621311-00b1-4b85-9c48-334f9ba86562" />
+					<attribute id="Name" type="LSString" value="Undead_Skeleton_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="145fc868-9353-4ef1-8a1d-419fe96533fb" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroSkeletonMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="33c625aa-6982-4c27-904f-e47029a9b140" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
